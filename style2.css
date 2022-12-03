@@ -1,0 +1,44 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 5%;
+  text-align: center;
+  background-color: white;
+  position: relative;
+}
+.judul {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+.formanime {
+  background-color: white;
+  width: 100%;
+  min-height: 200%;
+  padding: 1px;
+  border-radius: 30px;
+  text-align: center;
+}
+.menunime {
+  background-color: white;
+  width: 100%;
+  min-height: 200%;
+  border-radius: 30px;
+}
+.border1 {
+  width: 324px;
+  border-radius: 10px;
+  border: 2px solid #858585;
+}
+.button {
+  background-color: white;
+  width: 324px;
+  height: 60px;
+  border-radius: 10px;
+  border: 2px solid #858585;
+  margin-top: -20px;
+  font-size: 1em;
+  font-weight: bold;
+}
